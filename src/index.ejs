@@ -17,7 +17,7 @@
     <!-- Set `__static` path to static files in production -->
     <script>
       if (process.env.NODE_ENV !== 'development') window.__static = require('path').join(__dirname, '/static').replace(/\\/g, '\\\\')
-      const socket = io('http://localhost:3000');
+      const socket = io('114.67.145.235:3000');
       const userInfo = JSON.parse(localStorage.getItem("userInfo"))
       if (userInfo) {
         socket.emit('update', userInfo.user_id);
