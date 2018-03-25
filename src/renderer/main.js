@@ -13,7 +13,7 @@ import Components from './components/index'
 Vue.use(Components);
 
 
-axios.defaults.baseURL = 'http://localhost:3000'
+axios.defaults.baseURL = 'http://localhost:3000';
 axios.interceptors.request.use(
 	config => {
 		const token = localStorage.getItem('userToken');

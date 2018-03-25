@@ -18,7 +18,6 @@ import CreatEditorGroup from "@/pages/CreatEditorGroup";
 
 import axios from "axios";
 
-    },
 Vue.use(Router);
 
 const router = new Router({
