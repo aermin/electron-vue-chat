@@ -24,7 +24,7 @@ This project was generated with [electron-vue](https://github.com/SimulatedGREG/
 
 #### 项目展示
 
-简单暂时其中一个页面，具体详情请看https://github.com/aermin/vue-chat
+简单展示其中一个页面，具体详情请看https://github.com/aermin/vue-chat
 
 ![a03eb0555404b38feb7a2dbca15c7db1 1](https://user-images.githubusercontent.com/24861316/41197429-d8272120-6c90-11e8-9874-f1f9ff7ca1ea.jpg)
 
