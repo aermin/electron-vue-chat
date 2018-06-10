@@ -1,6 +1,7 @@
-# githubchat
 
-> Provide chat service for the github. And this is the Electron version
+#### 概述
+
+使用electron-vue这个脚手架，快速地将我原先[web项目的代码](https://github.com/aermin/vue-chat)迁移过来复用。
 
 #### Build Setup
 
@@ -20,6 +21,8 @@ npm run build
 ---
 
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[7c4e3e9](https://github.com/SimulatedGREG/electron-vue/tree/7c4e3e90a772bd4c27d2dd4790f61f09bae0fcef) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+
+#### 目录
 
 ```
 ├── LICENSE
@@ -50,3 +53,14 @@ This project was generated with [electron-vue](https://github.com/SimulatedGREG/
 ├── static
 └── yarn.lock
 ```
+
+#### 注意 
+
+本项目只有前端代码，使用我线上的后端接口，接口仅供学习测试使用（弱鸡学生机请勿恶搞😂）
+
+[后端代码传送门](https://github.com/aermin/vue-chat/tree/master/server)
+
+
+#### 感谢第三方材料
+
+[electron-vue文档](https://simulatedgreg.gitbooks.io/electron-vue/content/cn/)
