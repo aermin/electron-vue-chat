@@ -22,6 +22,14 @@ npm run build
 
 This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[7c4e3e9](https://github.com/SimulatedGREG/electron-vue/tree/7c4e3e90a772bd4c27d2dd4790f61f09bae0fcef) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
 
+#### 项目展示
+
+简单暂时其中一个页面，具体详情请看https://github.com/aermin/vue-chat
+
+![a03eb0555404b38feb7a2dbca15c7db1 1](https://user-images.githubusercontent.com/24861316/41197429-d8272120-6c90-11e8-9874-f1f9ff7ca1ea.jpg)
+
+
+
 #### 目录
 
 ```
